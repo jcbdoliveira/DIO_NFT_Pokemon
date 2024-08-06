@@ -7,9 +7,9 @@
 
  ## Tecnologias utilizadas
  * Ide Remix https://remix.ethereum.org/
- * Truffle https://archive.trufflesuite.com/
- * Ganache https://archive.trufflesuite.com/ganache/
- * Metamask https://metamask.io/
+ * TestNet https://www.sepoliaeth.com/
+ * Faucet https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+ * Wallet https://metamask.io/
 
 ## Smart contract
 ```solidity
@@ -78,5 +78,5 @@ contract PokeDIO is ERC721{
 ## Operações (fucntions) do contrato
 ![localImage](./img/02.png)
 
-## Painel do ganache
+## Transação na Metamask
 ![localImage](./img/03.png)
